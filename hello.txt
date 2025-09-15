@@ -1,2 +1,2 @@
 Hello GitHub world!
-This is my second sentence.
+Excited to learn how to use GitHUb!
